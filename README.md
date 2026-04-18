@@ -150,11 +150,4 @@ Frontend starts at → **http://localhost:3000**
 - ✅ Global exception handling
 - ✅ Form validation (frontend + backend)
 
----
 
-## 👤 Author
-
-**Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
-**Batch/Program:** FSD Java  
-**Submission Date:** April 21, 2026
